@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$src_2main_2include_2CustomerDB_8h.html" title="CustomerDB.h" alt="" coords="5,83,125,112"/>
+<area shape="rect" id="node5" href="$GtkCustomerModel_8h.html" title="GtkCustomerModel.h" alt="" coords="149,83,312,112"/>
+<area shape="rect" id="node11" href="$provided_2include_2bridge_2CustomerDB_8h.html" title="bridge/CustomerDB.h" alt="" coords="336,83,501,112"/>
+<area shape="rect" id="node15" href="$provided_2include_2provided_2CustomerDB_8h.html" title="provided/CustomerDB.h" alt="" coords="525,83,707,112"/>
+<area shape="rect" id="node7" href="$Customer_8c.html" title="Customer.c" alt="" coords="124,160,223,189"/>
+<area shape="rect" id="node9" href="$GtkCustomerModel_8c.html" title="GtkCustomerModel.c" alt="" coords="247,160,409,189"/>
+<area shape="rect" id="node13" href="$BridgeUtil_8c.html" title="BridgeUtil.c" alt="" coords="433,160,532,189"/>
+<area shape="rect" id="node19" href="$CustomerDB_8c.html" title="CustomerDB.c" alt="" coords="556,160,676,189"/>
+<area shape="rect" id="node21" href="$CustomerDBUnit_8c.html" title="CustomerDBUnit.c" alt="" coords="700,160,847,189"/>
+<area shape="rect" id="node23" href="$DocumentEditor_8c.html" title="DocumentEditor.c" alt="" coords="871,160,1015,189"/>
+</map>

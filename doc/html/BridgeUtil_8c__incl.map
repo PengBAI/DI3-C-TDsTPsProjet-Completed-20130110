@@ -1,0 +1,28 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$BridgeUtil_8h.html" title="BridgeUtil.h" alt="" coords="201,83,299,112"/>
+<area shape="rect" id="node5" href="$provided_2include_2bridge_2CatalogDB_8h.html" title="bridge/CatalogDB.h" alt="" coords="323,83,475,112"/>
+<area shape="rect" id="node25" href="$provided_2include_2bridge_2CatalogRecord_8h.html" title="bridge/CatalogRecord.h" alt="" coords="202,160,378,189"/>
+<area shape="rect" id="node28" href="$provided_2include_2bridge_2CustomerDB_8h.html" title="bridge/CustomerDB.h" alt="" coords="402,160,567,189"/>
+<area shape="rect" id="node36" href="$provided_2include_2bridge_2CustomerRecord_8h.html" title="bridge/CustomerRecord.h" alt="" coords="397,237,586,267"/>
+<area shape="rect" id="node39" href="$provided_2include_2bridge_2Dictionary_8h.html" title="bridge/Dictionary.h" alt="" coords="826,237,973,267"/>
+<area shape="rect" id="node44" href="$provided_2include_2bridge_2Document_8h.html" title="bridge/Document.h" alt="" coords="651,160,801,189"/>
+<area shape="rect" id="node53" href="$provided_2include_2bridge_2DocumentRowList_8h.html" title="bridge/DocumentRowList.h" alt="" coords="997,237,1199,267"/>
+<area shape="rect" id="node56" href="$provided_2include_2bridge_2DocumentUtil_8h.html" title="bridge/DocumentUtil.h" alt="" coords="1223,237,1397,267"/>
+<area shape="rect" id="node61" href="$provided_2include_2bridge_2EncryptDecrypt_8h.html" title="bridge/EncryptDecrypt.h" alt="" coords="1185,160,1374,189"/>
+<area shape="rect" id="node66" href="$provided_2include_2bridge_2MyString_8h.html" title="bridge/MyString.h" alt="" coords="1213,392,1351,421"/>
+<area shape="rect" id="node69" href="$provided_2include_2bridge_2OperatorTable_8h.html" title="bridge/OperatorTable.h" alt="" coords="1401,160,1574,189"/>
+<area shape="rect" id="node74" href="$provided_2include_2bridge_2PrintFormat_8h.html" title="bridge/PrintFormat.h" alt="" coords="821,83,981,112"/>
+<area shape="rect" id="node7" href="$provided_2include_2base_2CatalogDB_8h.html" title="base/CatalogDB.h" alt="" coords="37,160,178,189"/>
+<area shape="rect" id="node9" href="$provided_2include_2base_2Config_8h.html" title="base/Config.h" alt="" coords="611,392,723,421"/>
+<area shape="rect" id="node22" href="$provided_2include_2base_2CatalogRecord_8h.html" title="base/CatalogRecord.h" alt="" coords="23,237,191,267"/>
+<area shape="rect" id="node17" href="$provided_2include_2base_2MyString_8h.html" title="base/MyString.h" alt="" coords="818,469,949,499"/>
+<area shape="rect" id="node30" href="$provided_2include_2base_2CustomerDB_8h.html" title="base/CustomerDB.h" alt="" coords="215,237,373,267"/>
+<area shape="rect" id="node33" href="$provided_2include_2base_2CustomerRecord_8h.html" title="base/CustomerRecord.h" alt="" coords="331,315,513,344"/>
+<area shape="rect" id="node41" href="$provided_2include_2base_2Dictionary_8h.html" title="base/Dictionary.h" alt="" coords="857,315,995,344"/>
+<area shape="rect" id="node46" href="$provided_2include_2base_2Document_8h.html" title="base/Document.h" alt="" coords="610,237,751,267"/>
+<area shape="rect" id="node50" href="$provided_2include_2base_2DocumentRowList_8h.html" title="base/DocumentRowList.h" alt="" coords="638,315,833,344"/>
+<area shape="rect" id="node58" href="$provided_2include_2base_2DocumentUtil_8h.html" title="base/DocumentUtil.h" alt="" coords="1019,315,1182,344"/>
+<area shape="rect" id="node63" href="$provided_2include_2base_2EncryptDecrypt_8h.html" title="base/EncryptDecrypt.h" alt="" coords="1206,315,1387,344"/>
+<area shape="rect" id="node71" href="$provided_2include_2base_2OperatorTable_8h.html" title="base/OperatorTable.h" alt="" coords="1411,315,1577,344"/>
+<area shape="rect" id="node76" href="$provided_2include_2base_2PrintFormat_8h.html" title="base/PrintFormat.h" alt="" coords="825,160,977,189"/>
+</map>

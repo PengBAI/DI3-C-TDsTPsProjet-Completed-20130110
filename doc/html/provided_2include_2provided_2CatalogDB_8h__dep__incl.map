@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$BridgeUtil_8c.html" title="BridgeUtil.c" alt="" coords="5,83,104,112"/>
+<area shape="rect" id="node5" href="$Catalog_8c.html" title="Catalog.c" alt="" coords="128,83,213,112"/>
+<area shape="rect" id="node7" href="$CatalogDB_8c.html" title="CatalogDB.c" alt="" coords="237,83,344,112"/>
+<area shape="rect" id="node9" href="$CatalogDBUnit_8c.html" title="CatalogDBUnit.c" alt="" coords="368,83,501,112"/>
+<area shape="rect" id="node11" href="$DocumentEditor_8c.html" title="DocumentEditor.c" alt="" coords="525,83,669,112"/>
+<area shape="rect" id="node13" href="$GtkCatalogModel_8c.html" title="GtkCatalogModel.c" alt="" coords="693,83,843,112"/>
+</map>

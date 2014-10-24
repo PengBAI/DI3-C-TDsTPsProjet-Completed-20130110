@@ -1,0 +1,18 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$src_2main_2include_2CatalogRecord_8h.html" title="CatalogRecord.h" alt="" coords="5,83,136,112"/>
+<area shape="rect" id="node5" href="$provided_2include_2base_2CatalogDB_8h.html" title="base/CatalogDB.h" alt="" coords="360,83,501,112"/>
+<area shape="rect" id="node30" href="$provided_2include_2bridge_2CatalogRecord_8h.html" title="bridge/CatalogRecord.h" alt="" coords="160,83,336,112"/>
+<area shape="rect" id="node33" href="$provided_2include_2provided_2CatalogRecord_8h.html" title="provided/CatalogRecord.h" alt="" coords="761,160,953,189"/>
+<area shape="rect" id="node7" href="$src_2main_2include_2CatalogDB_8h.html" title="CatalogDB.h" alt="" coords="631,160,737,189"/>
+<area shape="rect" id="node9" href="$GtkCatalogModel_8h.html" title="GtkCatalogModel.h" alt="" coords="265,160,415,189"/>
+<area shape="rect" id="node15" href="$provided_2include_2bridge_2CatalogDB_8h.html" title="bridge/CatalogDB.h" alt="" coords="89,160,241,189"/>
+<area shape="rect" id="node19" href="$provided_2include_2provided_2CatalogDB_8h.html" title="provided/CatalogDB.h" alt="" coords="439,160,607,189"/>
+<area shape="rect" id="node11" href="$Catalog_8c.html" title="Catalog.c" alt="" coords="432,237,517,267"/>
+<area shape="rect" id="node13" href="$GtkCatalogModel_8c.html" title="GtkCatalogModel.c" alt="" coords="259,237,408,267"/>
+<area shape="rect" id="node17" href="$BridgeUtil_8c.html" title="BridgeUtil.c" alt="" coords="123,237,221,267"/>
+<area shape="rect" id="node23" href="$CatalogDB_8c.html" title="CatalogDB.c" alt="" coords="541,237,648,267"/>
+<area shape="rect" id="node25" href="$CatalogDBUnit_8c.html" title="CatalogDBUnit.c" alt="" coords="672,237,805,267"/>
+<area shape="rect" id="node27" href="$DocumentEditor_8c.html" title="DocumentEditor.c" alt="" coords="829,237,973,267"/>
+<area shape="rect" id="node39" href="$CatalogRecord_8c.html" title="CatalogRecord.c" alt="" coords="997,237,1128,267"/>
+<area shape="rect" id="node41" href="$CatalogRecordUnit_8c.html" title="CatalogRecordUnit.c" alt="" coords="1152,237,1309,267"/>
+</map>

@@ -1,0 +1,221 @@
+<toc label="Travaux pratiques de langage C" topic="index.html">
+  <topic label="Modules" href="modules.html">
+    <topic label="A specialized treeview model backed by our data structure instead of GTK+ ones" href="group__GtkCatalogModel.html">
+    </topic>
+    <topic label="A specialized treeview model backed by our data structure instead of GTK+ ones" href="group__GtkCustomerModel.html">
+    </topic>
+    <topic label="Application main functions" href="group__App.html">
+    </topic>
+    <topic label="Catalog database" href="group__CatalogDB.html">
+      <topic label="Bridge function pointers" href="group__BridgeCatalogDB.html">
+      </topic>
+      <topic label="Provided functions" href="group__ProvidedCatalogDB.html">
+      </topic>
+    </topic>
+    <topic label="Customers" href="group__Customers.html">
+      <topic label="Customer database" href="group__CustomerDB.html">
+        <topic label="Provided functions" href="group__ProvidedCustomerDB.html">
+        </topic>
+      </topic>
+      <topic label="Customer record" href="group__CustomerRecord.html">
+        <topic label="Provided functions" href="group__ProvidedCustomerRecord.html">
+        </topic>
+      </topic>
+      <topic label="Management of the customers" href="group__Customer.html">
+      </topic>
+    </topic>
+    <topic label="Document formatting" href="group__Format.html">
+      <topic label="Dictionary based formatting functions" href="group__Dictionary.html">
+        <topic label="Provided functions" href="group__ProvidedDictionary.html">
+        </topic>
+      </topic>
+      <topic label="Print format model management" href="group__PrintFormat.html">
+        <topic label="Provided functions" href="group__ProvidedPrintFormat.html">
+        </topic>
+      </topic>
+      <topic label="Print preview of a document" href="group__Print.html">
+      </topic>
+    </topic>
+    <topic label="Document management" href="group__Documents.html">
+      <topic label="Documents" href="group__Document.html">
+        <topic label="Provided functions" href="group__ProvidedDocument.html">
+        </topic>
+      </topic>
+      <topic label="Functions for bill management" href="group__Bill.html">
+      </topic>
+      <topic label="Functions for editing documents" href="group__DocumentEditor.html">
+      </topic>
+      <topic label="Functions for quotation management" href="group__Quotation.html">
+      </topic>
+      <topic label="List of rows of a document" href="group__DocumentRowList.html">
+        <topic label="Provided functions" href="group__ProvidedDocumentRowList.html">
+        </topic>
+      </topic>
+      <topic label="Utility functions for documents" href="group__DocumentUtil.html">
+        <topic label="Provided functions" href="group__ProvidedDocumentUtil.html">
+        </topic>
+      </topic>
+    </topic>
+    <topic label="Encryption and decryption functions" href="group__EncryptDecrypt.html">
+      <topic label="Provided functions" href="group__ProvidedEncryptDecrypt.html">
+      </topic>
+    </topic>
+    <topic label="Management of the catalog of products" href="group__Catalog.html">
+    </topic>
+    <topic label="Operators" href="group__Operators.html">
+      <topic label="Management of the operators" href="group__Operator.html">
+      </topic>
+      <topic label="Operator database" href="group__OperatorTable.html">
+        <topic label="Provided functions" href="group__ProvidedOperatorTable.html">
+        </topic>
+      </topic>
+    </topic>
+    <topic label="Product record" href="group__CatalogRecord.html">
+      <topic label="Provided functions" href="group__ProvidedCatalogRecord.html">
+      </topic>
+    </topic>
+    <topic label="String utility functions" href="group__String.html">
+      <topic label="Provided functions" href="group__ProvidedString.html">
+      </topic>
+    </topic>
+  </topic>
+  <topic label="Data Structures" href="annotated.html">
+    <topic label="GtkCatalogModel" href="struct__GtkCatalogModel.html"/>
+    <topic label="GtkCatalogModelClass" href="struct__GtkCatalogModelClass.html"/>
+    <topic label="GtkCustomerModel" href="struct__GtkCustomerModel.html"/>
+    <topic label="GtkCustomerModelClass" href="struct__GtkCustomerModelClass.html"/>
+    <topic label="CatalogDB" href="structCatalogDB.html"/>
+    <topic label="CatalogRecord" href="structCatalogRecord.html"/>
+    <topic label="CatalogRecord_FieldProperties" href="structCatalogRecord__FieldProperties.html"/>
+    <topic label="CatalogRecordEditor" href="structCatalogRecordEditor.html"/>
+    <topic label="CustomerDB" href="structCustomerDB.html"/>
+    <topic label="CustomerRecord" href="structCustomerRecord.html"/>
+    <topic label="CustomerRecord_FieldProperties" href="structCustomerRecord__FieldProperties.html"/>
+    <topic label="Dictionary" href="structDictionary.html"/>
+    <topic label="DictionaryEntry" href="structDictionaryEntry.html"/>
+    <topic label="Document" href="structDocument.html"/>
+    <topic label="DocumentEditor" href="structDocumentEditor.html"/>
+    <topic label="DocumentRow" href="structDocumentRow.html"/>
+    <topic label="OperatorTable" href="structOperatorTable.html"/>
+    <topic label="PrintContext" href="structPrintContext.html"/>
+    <topic label="PrintFormat" href="structPrintFormat.html"/>
+  </topic>
+  <topic label="Data Structure Index" href="classes.html"/>
+  <topic label="Data Fields" href="functions.html"/>
+  <topic label="File List" href="files.html">
+    <topic label="base/CatalogDB.h" href="provided_2include_2base_2CatalogDB_8h.html"/>
+    <topic label="base/CatalogRecord.h" href="provided_2include_2base_2CatalogRecord_8h.html"/>
+    <topic label="base/Config.h" href="provided_2include_2base_2Config_8h.html"/>
+    <topic label="base/CustomerDB.h" href="provided_2include_2base_2CustomerDB_8h.html"/>
+    <topic label="base/CustomerRecord.h" href="provided_2include_2base_2CustomerRecord_8h.html"/>
+    <topic label="base/Dictionary.h" href="provided_2include_2base_2Dictionary_8h.html"/>
+    <topic label="base/Document.h" href="provided_2include_2base_2Document_8h.html"/>
+    <topic label="base/DocumentRowList.h" href="provided_2include_2base_2DocumentRowList_8h.html"/>
+    <topic label="base/DocumentUtil.h" href="provided_2include_2base_2DocumentUtil_8h.html"/>
+    <topic label="base/EncryptDecrypt.h" href="provided_2include_2base_2EncryptDecrypt_8h.html"/>
+    <topic label="base/MyString.h" href="provided_2include_2base_2MyString_8h.html"/>
+    <topic label="base/OperatorTable.h" href="provided_2include_2base_2OperatorTable_8h.html"/>
+    <topic label="base/PrintFormat.h" href="provided_2include_2base_2PrintFormat_8h.html"/>
+    <topic label="base/Registry.h" href="Registry_8h.html"/>
+    <topic label="bridge/CatalogDB.h" href="provided_2include_2bridge_2CatalogDB_8h.html"/>
+    <topic label="bridge/CatalogRecord.h" href="provided_2include_2bridge_2CatalogRecord_8h.html"/>
+    <topic label="bridge/CustomerDB.h" href="provided_2include_2bridge_2CustomerDB_8h.html"/>
+    <topic label="bridge/CustomerRecord.h" href="provided_2include_2bridge_2CustomerRecord_8h.html"/>
+    <topic label="bridge/Dictionary.h" href="provided_2include_2bridge_2Dictionary_8h.html"/>
+    <topic label="bridge/Document.h" href="provided_2include_2bridge_2Document_8h.html"/>
+    <topic label="bridge/DocumentRowList.h" href="provided_2include_2bridge_2DocumentRowList_8h.html"/>
+    <topic label="bridge/DocumentUtil.h" href="provided_2include_2bridge_2DocumentUtil_8h.html"/>
+    <topic label="bridge/EncryptDecrypt.h" href="provided_2include_2bridge_2EncryptDecrypt_8h.html"/>
+    <topic label="bridge/MyString.h" href="provided_2include_2bridge_2MyString_8h.html"/>
+    <topic label="bridge/OperatorTable.h" href="provided_2include_2bridge_2OperatorTable_8h.html"/>
+    <topic label="bridge/PrintFormat.h" href="provided_2include_2bridge_2PrintFormat_8h.html"/>
+    <topic label="provided/CatalogDB.h" href="provided_2include_2provided_2CatalogDB_8h.html"/>
+    <topic label="provided/CatalogRecord.h" href="provided_2include_2provided_2CatalogRecord_8h.html"/>
+    <topic label="provided/CustomerDB.h" href="provided_2include_2provided_2CustomerDB_8h.html"/>
+    <topic label="provided/CustomerRecord.h" href="provided_2include_2provided_2CustomerRecord_8h.html"/>
+    <topic label="provided/Dictionary.h" href="provided_2include_2provided_2Dictionary_8h.html"/>
+    <topic label="provided/Document.h" href="provided_2include_2provided_2Document_8h.html"/>
+    <topic label="provided/DocumentRowList.h" href="provided_2include_2provided_2DocumentRowList_8h.html"/>
+    <topic label="provided/DocumentUtil.h" href="provided_2include_2provided_2DocumentUtil_8h.html"/>
+    <topic label="provided/EncryptDecrypt.h" href="provided_2include_2provided_2EncryptDecrypt_8h.html"/>
+    <topic label="provided/MyString.h" href="provided_2include_2provided_2MyString_8h.html"/>
+    <topic label="provided/OperatorTable.h" href="provided_2include_2provided_2OperatorTable_8h.html"/>
+    <topic label="provided/PrintFormat.h" href="provided_2include_2provided_2PrintFormat_8h.html"/>
+    <topic label="App.h" href="App_8h.html"/>
+    <topic label="Bill.h" href="Bill_8h.html"/>
+    <topic label="BridgeUtil.h" href="BridgeUtil_8h.html"/>
+    <topic label="Catalog.h" href="Catalog_8h.html"/>
+    <topic label="CatalogDB.h" href="src_2main_2include_2CatalogDB_8h.html"/>
+    <topic label="CatalogDBUnit.h" href="CatalogDBUnit_8h.html"/>
+    <topic label="CatalogRecord.h" href="src_2main_2include_2CatalogRecord_8h.html"/>
+    <topic label="CatalogRecordUnit.h" href="CatalogRecordUnit_8h.html"/>
+    <topic label="Config.h" href="src_2main_2include_2Config_8h.html"/>
+    <topic label="Customer.h" href="Customer_8h.html"/>
+    <topic label="CustomerDB.h" href="src_2main_2include_2CustomerDB_8h.html"/>
+    <topic label="CustomerDBUnit.h" href="CustomerDBUnit_8h.html"/>
+    <topic label="CustomerRecord.h" href="src_2main_2include_2CustomerRecord_8h.html"/>
+    <topic label="CustomerRecordUnit.h" href="CustomerRecordUnit_8h.html"/>
+    <topic label="Dictionary.h" href="src_2main_2include_2Dictionary_8h.html"/>
+    <topic label="DictionaryUnit.h" href="DictionaryUnit_8h.html"/>
+    <topic label="Document.h" href="src_2main_2include_2Document_8h.html"/>
+    <topic label="DocumentEditor.h" href="DocumentEditor_8h.html"/>
+    <topic label="DocumentRowList.h" href="src_2main_2include_2DocumentRowList_8h.html"/>
+    <topic label="DocumentRowListUnit.h" href="DocumentRowListUnit_8h.html"/>
+    <topic label="DocumentUnit.h" href="DocumentUnit_8h.html"/>
+    <topic label="DocumentUtil.h" href="src_2main_2include_2DocumentUtil_8h.html"/>
+    <topic label="DocumentUtilUnit.h" href="DocumentUtilUnit_8h.html"/>
+    <topic label="EncryptDecrypt.h" href="src_2main_2include_2EncryptDecrypt_8h.html"/>
+    <topic label="EncryptDecryptUnit.h" href="EncryptDecryptUnit_8h.html"/>
+    <topic label="GtkCatalogModel.h" href="GtkCatalogModel_8h.html"/>
+    <topic label="GtkCustomerModel.h" href="GtkCustomerModel_8h.html"/>
+    <topic label="MainWindow.h" href="MainWindow_8h.html"/>
+    <topic label="MyString.h" href="src_2main_2include_2MyString_8h.html"/>
+    <topic label="MyStringUnit.h" href="MyStringUnit_8h.html"/>
+    <topic label="Operator.h" href="Operator_8h.html"/>
+    <topic label="OperatorTable.h" href="src_2main_2include_2OperatorTable_8h.html"/>
+    <topic label="OperatorTableUnit.h" href="OperatorTableUnit_8h.html"/>
+    <topic label="Print.h" href="Print_8h.html"/>
+    <topic label="PrintFormat.h" href="src_2main_2include_2PrintFormat_8h.html"/>
+    <topic label="PrintFormatUnit.h" href="PrintFormatUnit_8h.html"/>
+    <topic label="Quotation.h" href="Quotation_8h.html"/>
+    <topic label="UnitTest.h" href="UnitTest_8h.html"/>
+    <topic label="App.c" href="App_8c.html"/>
+    <topic label="Bill.c" href="Bill_8c.html"/>
+    <topic label="BridgeUtil.c" href="BridgeUtil_8c.html"/>
+    <topic label="Catalog.c" href="Catalog_8c.html"/>
+    <topic label="CatalogDB.c" href="CatalogDB_8c.html"/>
+    <topic label="CatalogDBUnit.c" href="CatalogDBUnit_8c.html"/>
+    <topic label="CatalogRecord.c" href="CatalogRecord_8c.html"/>
+    <topic label="CatalogRecordUnit.c" href="CatalogRecordUnit_8c.html"/>
+    <topic label="Customer.c" href="Customer_8c.html"/>
+    <topic label="CustomerDB.c" href="CustomerDB_8c.html"/>
+    <topic label="CustomerDBUnit.c" href="CustomerDBUnit_8c.html"/>
+    <topic label="CustomerRecord.c" href="CustomerRecord_8c.html"/>
+    <topic label="CustomerRecordUnit.c" href="CustomerRecordUnit_8c.html"/>
+    <topic label="Dictionary.c" href="Dictionary_8c.html"/>
+    <topic label="DictionaryUnit.c" href="DictionaryUnit_8c.html"/>
+    <topic label="Document.c" href="Document_8c.html"/>
+    <topic label="DocumentEditor.c" href="DocumentEditor_8c.html"/>
+    <topic label="DocumentRowList.c" href="DocumentRowList_8c.html"/>
+    <topic label="DocumentRowListUnit.c" href="DocumentRowListUnit_8c.html"/>
+    <topic label="DocumentUnit.c" href="DocumentUnit_8c.html"/>
+    <topic label="DocumentUtil.c" href="DocumentUtil_8c.html"/>
+    <topic label="DocumentUtilUnit.c" href="DocumentUtilUnit_8c.html"/>
+    <topic label="EncryptDecrypt.c" href="EncryptDecrypt_8c.html"/>
+    <topic label="EncryptDecryptUnit.c" href="EncryptDecryptUnit_8c.html"/>
+    <topic label="GtkCatalogModel.c" href="GtkCatalogModel_8c.html"/>
+    <topic label="GtkCustomerModel.c" href="GtkCustomerModel_8c.html"/>
+    <topic label="main.c" href="main_8c.html"/>
+    <topic label="MainWindow.c" href="MainWindow_8c.html"/>
+    <topic label="MyString.c" href="MyString_8c.html"/>
+    <topic label="MyStringUnit.c" href="MyStringUnit_8c.html"/>
+    <topic label="Operator.c" href="Operator_8c.html"/>
+    <topic label="OperatorTable.c" href="OperatorTable_8c.html"/>
+    <topic label="OperatorTableUnit.c" href="OperatorTableUnit_8c.html"/>
+    <topic label="Print.c" href="Print_8c.html"/>
+    <topic label="PrintFormat.c" href="PrintFormat_8c.html"/>
+    <topic label="PrintFormatUnit.c" href="PrintFormatUnit_8c.html"/>
+    <topic label="Quotation.c" href="Quotation_8c.html"/>
+  </topic>
+  <topic label="Globals" href="globals.html"/>
+</toc>

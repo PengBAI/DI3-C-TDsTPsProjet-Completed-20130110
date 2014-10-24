@@ -1,0 +1,13 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$MainWindow_8h.html" title="MainWindow.h" alt="" coords="245,83,360,112"/>
+<area shape="rect" id="node7" href="$Catalog_8h.html" title="Catalog.h" alt="" coords="384,83,469,112"/>
+<area shape="rect" id="node10" href="$Customer_8h.html" title="Customer.h" alt="" coords="5,83,104,112"/>
+<area shape="rect" id="node13" href="$Operator_8h.html" title="Operator.h" alt="" coords="128,83,221,112"/>
+<area shape="rect" id="node16" href="$Quotation_8h.html" title="Quotation.h" alt="" coords="493,83,595,112"/>
+<area shape="rect" id="node40" href="$Bill_8h.html" title="Bill.h" alt="" coords="619,83,672,112"/>
+<area shape="rect" id="node19" href="$provided_2include_2base_2Document_8h.html" title="base/Document.h" alt="" coords="524,160,665,189"/>
+<area shape="rect" id="node21" href="$provided_2include_2base_2Config_8h.html" title="base/Config.h" alt="" coords="539,315,651,344"/>
+<area shape="rect" id="node34" href="$provided_2include_2base_2CustomerRecord_8h.html" title="base/CustomerRecord.h" alt="" coords="504,237,685,267"/>
+<area shape="rect" id="node37" href="$provided_2include_2base_2DocumentRowList_8h.html" title="base/DocumentRowList.h" alt="" coords="709,237,904,267"/>
+<area shape="rect" id="node29" href="$provided_2include_2base_2MyString_8h.html" title="base/MyString.h" alt="" coords="592,392,723,421"/>
+</map>

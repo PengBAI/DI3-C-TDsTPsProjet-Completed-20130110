@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$src_2main_2include_2CatalogDB_8h.html" title="CatalogDB.h" alt="" coords="5,83,112,112"/>
+<area shape="rect" id="node5" href="$GtkCatalogModel_8h.html" title="GtkCatalogModel.h" alt="" coords="136,83,285,112"/>
+<area shape="rect" id="node11" href="$provided_2include_2bridge_2CatalogDB_8h.html" title="bridge/CatalogDB.h" alt="" coords="309,83,461,112"/>
+<area shape="rect" id="node15" href="$provided_2include_2provided_2CatalogDB_8h.html" title="provided/CatalogDB.h" alt="" coords="485,83,653,112"/>
+<area shape="rect" id="node7" href="$Catalog_8c.html" title="Catalog.c" alt="" coords="111,160,196,189"/>
+<area shape="rect" id="node9" href="$GtkCatalogModel_8c.html" title="GtkCatalogModel.c" alt="" coords="220,160,369,189"/>
+<area shape="rect" id="node13" href="$BridgeUtil_8c.html" title="BridgeUtil.c" alt="" coords="393,160,492,189"/>
+<area shape="rect" id="node19" href="$CatalogDB_8c.html" title="CatalogDB.c" alt="" coords="516,160,623,189"/>
+<area shape="rect" id="node21" href="$CatalogDBUnit_8c.html" title="CatalogDBUnit.c" alt="" coords="647,160,780,189"/>
+<area shape="rect" id="node23" href="$DocumentEditor_8c.html" title="DocumentEditor.c" alt="" coords="804,160,948,189"/>
+</map>

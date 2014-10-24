@@ -1,0 +1,23 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$Bill_8h.html" title="Bill.h" alt="" coords="188,83,241,112"/>
+<area shape="rect" id="node11" href="$src_2main_2include_2Document_8h.html" title="Document.h" alt="" coords="1084,83,1191,112"/>
+<area shape="rect" id="node13" href="$DocumentEditor_8h.html" title="DocumentEditor.h" alt="" coords="265,83,409,112"/>
+<area shape="rect" id="node19" href="$Print_8h.html" title="Print.h" alt="" coords="796,83,863,112"/>
+<area shape="rect" id="node24" href="$Quotation_8h.html" title="Quotation.h" alt="" coords="63,83,164,112"/>
+<area shape="rect" id="node28" href="$provided_2include_2base_2PrintFormat_8h.html" title="base/PrintFormat.h" alt="" coords="908,83,1060,112"/>
+<area shape="rect" id="node44" href="$provided_2include_2bridge_2Document_8h.html" title="bridge/Document.h" alt="" coords="623,83,772,112"/>
+<area shape="rect" id="node47" href="$provided_2include_2provided_2Document_8h.html" title="provided/Document.h" alt="" coords="433,83,599,112"/>
+<area shape="rect" id="node5" href="$Bill_8c.html" title="Bill.c" alt="" coords="269,160,323,189"/>
+<area shape="rect" id="node7" href="$MainWindow_8c.html" title="MainWindow.c" alt="" coords="5,160,120,189"/>
+<area shape="rect" id="node9" href="$Quotation_8c.html" title="Quotation.c" alt="" coords="144,160,245,189"/>
+<area shape="rect" id="node16" href="$DocumentEditor_8c.html" title="DocumentEditor.c" alt="" coords="635,160,779,189"/>
+<area shape="rect" id="node22" href="$Print_8c.html" title="Print.c" alt="" coords="1071,237,1137,267"/>
+<area shape="rect" id="node30" href="$src_2main_2include_2PrintFormat_8h.html" title="PrintFormat.h" alt="" coords="1339,160,1453,189"/>
+<area shape="rect" id="node32" href="$provided_2include_2bridge_2PrintFormat_8h.html" title="bridge/PrintFormat.h" alt="" coords="904,160,1064,189"/>
+<area shape="rect" id="node36" href="$provided_2include_2provided_2PrintFormat_8h.html" title="provided/PrintFormat.h" alt="" coords="1139,160,1315,189"/>
+<area shape="rect" id="node34" href="$BridgeUtil_8c.html" title="BridgeUtil.c" alt="" coords="876,237,975,267"/>
+<area shape="rect" id="node40" href="$PrintFormat_8c.html" title="PrintFormat.c" alt="" coords="1167,237,1281,267"/>
+<area shape="rect" id="node42" href="$PrintFormatUnit_8c.html" title="PrintFormatUnit.c" alt="" coords="1305,237,1447,267"/>
+<area shape="rect" id="node51" href="$Document_8c.html" title="Document.c" alt="" coords="347,160,453,189"/>
+<area shape="rect" id="node53" href="$DocumentUnit_8c.html" title="DocumentUnit.c" alt="" coords="477,160,611,189"/>
+</map>
